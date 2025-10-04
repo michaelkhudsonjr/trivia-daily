@@ -1,56 +1,48 @@
 {
   "date": "2025-10-04",
-  "category": "General Knowledge",
+  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
   "questions": [
     {
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-      "answer": "Mars"
+      "category": "World History",
+      "prompt": "Which ancient civilization built the pyramids at Giza?",
+      "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+      "answerIndex": 2
     },
     {
-      "question": "What is the largest mammal on Earth?",
-      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-      "answer": "Blue Whale"
+      "category": "Science",
+      "prompt": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answerIndex": 2
     },
     {
-      "question": "In what year did the Titanic sink?",
-      "options": ["1905", "1912", "1920", "1898"],
-      "answer": "1912"
+      "category": "Geography",
+      "prompt": "Mount Kilimanjaro is located in which African country?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "South Africa"],
+      "answerIndex": 1
     },
     {
-      "question": "Which element has the chemical symbol 'O'?",
-      "options": ["Oxygen", "Osmium", "Oganesson", "Oxide"],
-      "answer": "Oxygen"
+      "category": "Sports",
+      "prompt": "Which sport uses a net, shuttlecock, and rackets?",
+      "options": ["Tennis", "Badminton", "Squash", "Pickleball"],
+      "answerIndex": 1
     },
     {
-      "question": "What is the capital city of Japan?",
-      "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
-      "answer": "Tokyo"
+      "category": "Pop Culture",
+      "prompt": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Tom Holland"],
+      "answerIndex": 1
     },
     {
-      "question": "Who wrote the play 'Romeo and Juliet'?",
-      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
-      "answer": "William Shakespeare"
+      "category": "Literature",
+      "prompt": "Which novel begins with the line 'Call me Ishmael'?",
+      "options": ["Moby-Dick", "The Great Gatsby", "Pride and Prejudice", "Dracula"],
+      "answerIndex": 0
     },
     {
-      "question": "Which ocean is the largest on Earth?",
-      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-      "answer": "Pacific Ocean"
-    },
-    {
-      "question": "What is the process by which plants make their own food?",
-      "options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
-      "answer": "Photosynthesis"
-    },
-    {
-      "question": "How many continents are there on Earth?",
-      "options": ["5", "6", "7", "8"],
-      "answer": "7"
-    },
-    {
-      "question": "What is the smallest prime number?",
-      "options": ["0", "1", "2", "3"],
-      "answer": "2"
+      "category": "Math",
+      "prompt": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answerIndex": 2
     }
   ]
 }
