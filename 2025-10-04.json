@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-04",
+  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which empire built the Machu Picchu citadel in the Andes Mountains?",
+      "options": ["Aztec Empire", "Maya Civilization", "Inca Empire", "Spanish Empire"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "What part of the cell contains genetic material?",
+      "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Cell membrane"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which U.S. state shares the longest border with Canada?",
+      "options": ["Montana", "Maine", "Alaska", "North Dakota"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Sports",
+      "prompt": "In golf, what is the term for a score of one under par on a hole?",
+      "options": ["Birdie", "Eagle", "Bogey", "Par"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which Marvel movie features the fictional nation of Wakanda?",
+      "options": ["Iron Man", "Black Panther", "Doctor Strange", "Captain Marvel"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Which novel features the characters Tom Sawyer and Huckleberry Finn?",
+      "options": ["The Adventures of Tom Sawyer", "Treasure Island", "Moby-Dick", "The Old Man and the Sea"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the value of π (pi) rounded to two decimal places?",
+      "options": ["3.12", "3.14", "3.15", "3.16"],
+      "answerIndex": 1
+    }
+  ]
+}
