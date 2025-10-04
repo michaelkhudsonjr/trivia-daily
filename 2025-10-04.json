@@ -1,48 +1,28 @@
 {
   "date": "2025-10-04",
-  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
+  "category": "General Knowledge",
   "questions": [
     {
-      "category": "World History",
-      "prompt": "Which city served as the capital of the Eastern Roman (Byzantine) Empire?",
-      "options": ["Rome", "Constantinople", "Alexandria", "Antioch"],
-      "answerIndex": 1
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "answer": "Mars"
     },
     {
-      "category": "Science",
-      "prompt": "What force keeps planets in orbit around the Sun?",
-      "options": ["Electromagnetic force", "Strong nuclear force", "Gravity", "Friction"],
-      "answerIndex": 2
+      "question": "What is the largest mammal on Earth?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
     },
     {
-      "category": "Geography",
-      "prompt": "Which river runs through Baghdad?",
-      "options": ["Euphrates", "Tigris", "Jordan", "Nile"],
-      "answerIndex": 1
+      "question": "In what year did the Titanic sink?",
+      "options": ["1905", "1912", "1920", "1898"],
+      "answer": "1912"
     },
     {
-      "category": "Sports",
-      "prompt": "How many minutes are in regulation time for a standard soccer match (not including stoppage or extra time)?",
-      "options": ["60", "80", "90", "120"],
-      "answerIndex": 2
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Osmium", "Oganesson", "Oxide"],
+      "answer": "Oxygen"
     },
     {
-      "category": "Pop Culture",
-      "prompt": "Which TV series features a chemistry teacher named Walter White?",
-      "options": ["Breaking Bad", "The Office", "Lost", "Better Call Saul"],
-      "answerIndex": 0
-    },
-    {
-      "category": "Literature",
-      "prompt": "Who wrote the fantasy series 'The Chronicles of Narnia'?",
-      "options": ["J.R.R. Tolkien", "C.S. Lewis", "Philip Pullman", "Roald Dahl"],
-      "answerIndex": 1
-    },
-    {
-      "category": "Math",
-      "prompt": "What is the value of 6! (6 factorial)?",
-      "options": ["120", "360", "720", "840"],
-      "answerIndex": 2
-    }
-  ]
-}
+      "question": "What is the capital city of Japan?",
+      "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+      "answer": "Tokyo"
