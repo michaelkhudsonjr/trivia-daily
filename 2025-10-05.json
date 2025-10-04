@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-05",
+  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Who was the first emperor of Rome?",
+      "options": ["Julius Caesar", "Augustus", "Nero", "Hadrian"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Science",
+      "prompt": "What gas do plants absorb during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which desert is the largest by area on Earth?",
+      "options": ["Sahara", "Gobi", "Arabian", "Antarctic"],
+      "answerIndex": 3
+    },
+    {
+      "category": "Sports",
+      "prompt": "In basketball, how many points is a free throw worth?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Which artist released the album '1989'?",
+      "options": ["Adele", "Taylor Swift", "Beyoncé", "Katy Perry"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote 'The Hobbit'?",
+      "options": ["J.R.R. Tolkien", "C.S. Lewis", "George Orwell", "Mark Twain"],
+      "answerIndex": 0
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the square root of 81?",
+      "options": ["7", "8", "9", "10"],
+      "answerIndex": 2
+    }
+  ]
+}
