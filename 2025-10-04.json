@@ -26,3 +26,31 @@
       "question": "What is the capital city of Japan?",
       "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
       "answer": "Tokyo"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which ocean is the largest on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the process by which plants make their own food?",
+      "options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    }
+  ]
+}
