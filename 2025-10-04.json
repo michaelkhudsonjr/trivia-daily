@@ -4,45 +4,45 @@
   "questions": [
     {
       "category": "World History",
-      "prompt": "Which empire built the Machu Picchu citadel in the Andes Mountains?",
-      "options": ["Aztec Empire", "Maya Civilization", "Inca Empire", "Spanish Empire"],
-      "answerIndex": 2
+      "prompt": "Which city served as the capital of the Eastern Roman (Byzantine) Empire?",
+      "options": ["Rome", "Constantinople", "Alexandria", "Antioch"],
+      "answerIndex": 1
     },
     {
       "category": "Science",
-      "prompt": "What part of the cell contains genetic material?",
-      "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Cell membrane"],
-      "answerIndex": 0
-    },
-    {
-      "category": "Geography",
-      "prompt": "Which U.S. state shares the longest border with Canada?",
-      "options": ["Montana", "Maine", "Alaska", "North Dakota"],
+      "prompt": "What force keeps planets in orbit around the Sun?",
+      "options": ["Electromagnetic force", "Strong nuclear force", "Gravity", "Friction"],
       "answerIndex": 2
     },
     {
+      "category": "Geography",
+      "prompt": "Which river runs through Baghdad?",
+      "options": ["Euphrates", "Tigris", "Jordan", "Nile"],
+      "answerIndex": 1
+    },
+    {
       "category": "Sports",
-      "prompt": "In golf, what is the term for a score of one under par on a hole?",
-      "options": ["Birdie", "Eagle", "Bogey", "Par"],
-      "answerIndex": 0
+      "prompt": "How many minutes are in regulation time for a standard soccer match (not including stoppage or extra time)?",
+      "options": ["60", "80", "90", "120"],
+      "answerIndex": 2
     },
     {
       "category": "Pop Culture",
-      "prompt": "Which Marvel movie features the fictional nation of Wakanda?",
-      "options": ["Iron Man", "Black Panther", "Doctor Strange", "Captain Marvel"],
-      "answerIndex": 1
-    },
-    {
-      "category": "Literature",
-      "prompt": "Which novel features the characters Tom Sawyer and Huckleberry Finn?",
-      "options": ["The Adventures of Tom Sawyer", "Treasure Island", "Moby-Dick", "The Old Man and the Sea"],
+      "prompt": "Which TV series features a chemistry teacher named Walter White?",
+      "options": ["Breaking Bad", "The Office", "Lost", "Better Call Saul"],
       "answerIndex": 0
     },
     {
-      "category": "Math",
-      "prompt": "What is the value of π (pi) rounded to two decimal places?",
-      "options": ["3.12", "3.14", "3.15", "3.16"],
+      "category": "Literature",
+      "prompt": "Who wrote the fantasy series 'The Chronicles of Narnia'?",
+      "options": ["J.R.R. Tolkien", "C.S. Lewis", "Philip Pullman", "Roald Dahl"],
       "answerIndex": 1
+    },
+    {
+      "category": "Math",
+      "prompt": "What is the value of 6! (6 factorial)?",
+      "options": ["120", "360", "720", "840"],
+      "answerIndex": 2
     }
   ]
 }
