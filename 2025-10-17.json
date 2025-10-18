@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-17",
+  "categories": ["World History", "Science", "Geography", "Sports", "Pop Culture", "Literature", "Math"],
+  "questions": [
+    {
+      "category": "World History",
+      "prompt": "Which civilization built Machu Picchu in the 15th century?",
+      "options": ["Aztecs", "Mayans", "Incas", "Olmecs"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Science",
+      "prompt": "Which subatomic particle carries a negative electric charge?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Geography",
+      "prompt": "Which river flows through the city of Baghdad?",
+      "options": ["Nile", "Tigris", "Euphrates", "Jordan"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Sports",
+      "prompt": "A marathon race is approximately how many miles long?",
+      "options": ["24.2", "25.2", "26.2", "27.2"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Pop Culture",
+      "prompt": "Who created the Star Wars franchise?",
+      "options": ["Steven Spielberg", "George Lucas", "J.J. Abrams", "James Cameron"],
+      "answerIndex": 1
+    },
+    {
+      "category": "Literature",
+      "prompt": "Who wrote the dystopian novel '1984'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "Margaret Atwood"],
+      "answerIndex": 2
+    },
+    {
+      "category": "Math",
+      "prompt": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "answerIndex": 1
+    }
+  ]
+}
